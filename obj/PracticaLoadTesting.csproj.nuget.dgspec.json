@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alexayala/Desktop/Universidad Modelo/POO/Práctica-Testing/PracticaLoadTesting/PracticaLoadTesting.csproj": {}
+    "/Users/alexayala/Desktop/Universidad Modelo/POO/Práctica-Testing/PracticaLoadTesting/PracticaLoadTesting.csproj": {}
   },
   "projects": {
-    "/Users/alexayala/Desktop/Universidad Modelo/POO/Práctica-Testing/PracticaLoadTesting/PracticaLoadTesting.csproj": {
+    "/Users/alexayala/Desktop/Universidad Modelo/POO/Práctica-Testing/PracticaLoadTesting/PracticaLoadTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alexayala/Desktop/Universidad Modelo/POO/Práctica-Testing/PracticaLoadTesting/PracticaLoadTesting.csproj",
+        "projectUniqueName": "/Users/alexayala/Desktop/Universidad Modelo/POO/Práctica-Testing/PracticaLoadTesting/PracticaLoadTesting.csproj",
         "projectName": "PracticaLoadTesting",
-        "projectPath": "/Users/alexayala/Desktop/Universidad Modelo/POO/Práctica-Testing/PracticaLoadTesting/PracticaLoadTesting.csproj",
+        "projectPath": "/Users/alexayala/Desktop/Universidad Modelo/POO/Práctica-Testing/PracticaLoadTesting/PracticaLoadTesting.csproj",
         "packagesPath": "/Users/alexayala/.nuget/packages/",
-        "outputPath": "/Users/alexayala/Desktop/Universidad Modelo/POO/Práctica-Testing/PracticaLoadTesting/obj/",
+        "outputPath": "/Users/alexayala/Desktop/Universidad Modelo/POO/Práctica-Testing/PracticaLoadTesting/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alexayala/.nuget/NuGet/NuGet.Config"
