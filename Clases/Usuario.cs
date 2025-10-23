@@ -2,7 +2,7 @@ using System;
 
 namespace PracticaLoadTesting.Clases;
 
-public class Prueba
+public class Usuario
 {
-
+    int valor;
 }
